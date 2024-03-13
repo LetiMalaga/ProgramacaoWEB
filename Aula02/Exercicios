@@ -1,0 +1,8 @@
+JavaScript - Exercícios
+● Crie um código que converta um texto para letras maiúsculas;
+● Crie um código em JS que calcule a nota final de um aluno a
+partir da média de 3 notas de entrada. Depois, mostre se o aluno
+foi reprovado (média < 7) ou aprovado;
+● Crie uma calculadora em JS com as operações aritméticas (soma,
+subtração, divisão e multiplicação);
+● Crie um código que permita cadastrar e listar tarefas.
