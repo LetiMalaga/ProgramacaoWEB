@@ -1,0 +1,10 @@
+Crie um projeto para representarum sistema de cadastro de gastos utilizando JavaScript e HTML.
+
+Cada gasto deve possuir uma categoria e possuir ao menos 3 propriedades.
+
+Deve ser poss~ivel adicionar, apagar, editar e listar os gastos (agrupados por categoria). Também deve ser possível buscar um gasto.
+
+
+Critérios de Avaliação
+O projeto vale no máximo 10 pontos, dividos da seguinte forma:
+- Implementação das funcionalidades: 
