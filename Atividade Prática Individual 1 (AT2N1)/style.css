@@ -1,3 +1,7 @@
+/* Importing font from googleAPis */
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+
+/* Defining all attributes as having these characteristics */
 * {
     margin: 0;
     padding: 0;
@@ -5,11 +9,21 @@
     font-family: 'poppins', sans-serif;
     outline: none;
   }
+
+  /* Defining the header 1 style */
+h1 {
+  text-align: center; 
+  text-decoration: underline;
+  font-size: 30px;
+  justify-content: center;
+}
   
   body {
     height: 100vh;
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    background-color: rgb(222, 239, 245);
   }
   
   main {
@@ -20,7 +34,7 @@
     align-items: center;
   }
   
-  .resume {
+  .summary {
     display: flex;
     padding: 10px 0;
     gap: 40px;
@@ -29,10 +43,10 @@
     flex-wrap: wrap;
   }
   
-  .resume > div {
+  .summary > div {
     display: flex;
     flex-direction: column;
-    box-shadow: 0px 0px 5px #ccc;
+    box-shadow: 0px 0px 5px #2e94b8;
     border-radius: 10px;
     padding: 10px;
     width: 150px;
@@ -78,10 +92,13 @@
     border-radius: 5px;
   }
   
+  /* Defining the table header style */
   th {
     text-align: start;
     border-bottom: inset;
     padding-bottom: 5px;
+    border-bottom: solid;
+    border-color: #2e94b8;
   }
   
   i {
