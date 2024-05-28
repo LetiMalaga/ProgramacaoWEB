@@ -25,8 +25,8 @@ O projeto vale no máximo 3 pontos na nota do bimestre (N2), divididos da seguin
   - Divisão do projeto em arquivos;
   - Modularização do código JS;
   - Organização/clareza do código (nomes significativos de variáveis, indentação, etc.);
-  - Aplicação das operações sobre o arquivo: 0.4
-    - Correta aplicação das operações no arquivo, sem corromper a estrutura do JSON.
+- Aplicação das operações sobre o arquivo: 0.4
+  - Correta aplicação das operações no arquivo, sem corromper a estrutura do JSON.
 - Organização do GitHub (README, comentários e tamanho dos commits, etc.) (0.1);
 
 ## Observações
