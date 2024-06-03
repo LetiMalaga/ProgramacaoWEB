@@ -30,9 +30,12 @@ O projeto vale no máximo 3 pontos na nota do bimestre (N2), divididos da seguin
 - Organização do GitHub (README, comentários e tamanho dos commits, etc.) (0.1);
 
 ## Observações
-- O trabalho deve ser feito individualmente, portanto qualquer tipo de plágio/cola será penalizado (o projeto receberá nota 0).
-- Projetos com erro de sintaxe ou que não possam ser executados irão receber nota 0 também
-- A entrega será dia 02/06, até às 23:59, pelo AVA.
-- O envio deve conter apenas um link para o repositório (que deve estar público) com o código do
-projeto.
-  - NÃO ENVIEM UM ZIP OU COLOQUEM O PROJETO ZIPADO NO GITHUB!
+O trabalho consiste da seguinte estrutura:
+'''
+livraria/
+├── livros.json
+├── package.json
+├── servidor.js
+└── rotas/
+    └── livros.js
+'''
