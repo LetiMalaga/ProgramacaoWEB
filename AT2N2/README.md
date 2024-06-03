@@ -31,11 +31,11 @@ O projeto vale no máximo 3 pontos na nota do bimestre (N2), divididos da seguin
 
 ## Observações
 O trabalho consiste da seguinte estrutura:
-'''
+```
 livraria/
 ├── livros.json
 ├── package.json
 ├── servidor.js
 └── rotas/
     └── livros.js
-'''
+```
