@@ -1,0 +1,32 @@
+Crie um projeto para representar um sistema de cadastro de gastos utilizando JavaScript e HTML.
+Cada gasto deve possuir uma categoria e possuir ao menos 3 propriedades.
+Deve ser possível adicionar, apagar, editar e listar os gastos (agrupados por categoria). Também deve ser
+possível buscar um gasto.
+As categorias podem ser estáticas, ou seja, definidas previamente.
+
+Critérios de avaliação
+
+O projeto vale no máximo 3 pontos (+ 0.5 de bônus) na nota do bimestre (N1), divididos da seguinte forma:
+● Implementação das funcionalidades: 1.25 (0.3 por funcionalidade);
+○ Serão considerados o correto funcionamento e usabilidade das operações;
+● Uso correto e com sentido de herança: 0.6;
+○ Deve haver o uso em pelo menos um ponto do código.
+● Estruturação e organização do código: 0.6;
+○ Divisão do projeto em arquivos;
+○ Modularização do código JS;
+○ Organização das tags no arquivo HTML;
+○ Organização/clareza do código (nomes significativos de variáveis, indentação, etc.);
+● Uso correto do HTML e JS: 0.55;
+○ Uso correto da sintaxe do JavaScript;
+○ Uso correto das tags HTML.
+● Aplicação de CSS/estilo (bônus): 0.5.
+○ Aplicação de CSS nos componentes da página;
+○ Sugestão: https://getbootstrap.com/
+Observações
+● O trabalho deve ser feito individualmente, portanto qualquer tipo de plágio/cola será penalizado
+(o projeto receberá nota 0).
+● Projetos com erro de sintaxe ou que não possam ser executados irão receber nota 0 também
+● A entrega será dia 16/04, até 23:59, pelo AVA.
+● O envio deve conter apenas um link para o repositório (que deve estar público) com o código do
+projeto.
+○ NÃO ENVIEM UM ZIP OU COLOQUEM O PROJETO ZIPADO NO GITHUB!
